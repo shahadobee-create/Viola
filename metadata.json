@@ -1,0 +1,6 @@
+{
+  "name": "Viola - Agency Messenger & Client Workspace",
+  "description": "High-fidelity agency messaging, real-time client collaboration, visual inspiration boards, cloud assets, dispatches, and client briefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
